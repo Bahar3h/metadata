@@ -1,0 +1,9 @@
+{
+    "name": "a colorful bird",
+    "description": "a bird is trying to rest on a branch.",
+    "external_url": "https://www.instagram.com/p/CZJUg6uN1d0/?igsh=MTdzZW1xeml0MTl2cg== ", 
+    "image": "https://0x609.github.io/14.jpg",
+    "attributes": [
+        { "trait_type": "Type", "value": "Plate" }
+    ]
+}

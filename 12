@@ -1,0 +1,9 @@
+{
+    "name": "Rogue horse",
+    "description": "an abstract colorful horse with a wide variety of patterns.",
+    "external_url": "https://www.instagram.com/p/CdQ7S2gNpLj/?igsh=bjRubHFwcXBlOW1r", 
+    "image": "https://0x609.github.io/12.jpg",
+    "attributes": [
+        { "trait_type": "Type", "value": "Plate" }
+    ]
+}

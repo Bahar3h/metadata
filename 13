@@ -1,0 +1,9 @@
+{
+    "name": "a Bird fall in love with flowers",
+    "description": "a colorful bird in a flower garden.",
+    "external_url": "https://www.instagram.com/p/CYUPXBsNScL/?igsh=Y2VxYmQ4ZmxwN3Bv", 
+    "image": "https://0x609.github.io/13.jpg",
+    "attributes": [
+        { "trait_type": "Type", "value": "Plate" }
+    ]
+}
